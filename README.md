@@ -1,5 +1,5 @@
-Estamos borrando cosas che..!
-Si, parece que NO (!)
+Estamos 'borrando' cosas che..!
+No, algo pasa aca?
 
-Borramos un poco mas de texto
-para ver que sucede che
+Xorramos un poco mas de texto
+veremos si tira error?
