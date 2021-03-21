@@ -1,5 +1,5 @@
-Estamos modificando todo che..?
-Si, parece que si (?)
+Estamos borrando cosas che..!
+Si, parece que NO (!)
 
-Agregamos un poco mas de texto
+Borramos un poco mas de texto
 para ver que sucede che
