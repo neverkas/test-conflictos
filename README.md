@@ -1,9 +1,9 @@
-Bienvenidos a todos..!
+Bienvenidos a nuestros mejores clientes.
 
-No se olviden del nuevo horario!
-Los precios del mes con DESCUENTOS son
-Enero $100
-Febrero $50
-Marzo $100
+No se olviden, que tenemos nuevo horario.
+Los precios del mes vienen con más DESCUENTOS
+ENERO $100
+FEBRERO $50
+MARZO $100
 
 Los esperamos de 12 a 19hs!
