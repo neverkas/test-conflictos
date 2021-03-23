@@ -1,22 +1,5 @@
-Si, algo pasa aca?
+No tenemos ninguna promoción por el dia
+hemos cerrado todas las sedes por el momento
 
-Agregamos un poco mas de texto
-Espero que no? veremos si tira error!
-
-El jefe nos ha comandado realizar
-nuevas promociones
-para todas las personas
-
-pero sabemos que esto generará un conflicto
-o quizás no
-o quizas si
-
-esperemos que esto rompa todo
-o esperemos que no
-
-queremos varios conflictos por acá
-y otros por alla
-
-
-cuantos errores habrán?
-no sabemos tururu...
+le agradecemos a todos su apoyo
+Saludos!
